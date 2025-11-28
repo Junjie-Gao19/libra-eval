@@ -1,8 +1,8 @@
 {
     "OPENAI_API_KEY": "",
-    "LIBRAI_API_KEY": "sk-lr-7mxY56ebLWmvOMGhPgjVuPAoYfG5UDPOHGZFtQHG454IhEFqge",
+    "LIBRAI_API_KEY": "",
     "NEXT_API_KEY":"",
-    "NEXT_BASE_URL": "https://api.openai-next.com/v1",
-    "LOCAL_BASE_URL": "http://43.218.215.115:8000/v1",
-    "LOCAL_API_KEY": "sk-XRQV0fFqJ7VfUIcfswIpZTckzFfL8LTqC1M2R1O30z7d2KQA2S"
+    "NEXT_BASE_URL": "",
+    "LOCAL_BASE_URL": "",
+    "LOCAL_API_KEY": ""
 }
